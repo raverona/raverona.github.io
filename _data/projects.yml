@@ -1,0 +1,23 @@
+- name: Git Branch Color Status
+  gh_user: raverona
+  repo: git-branch-color-status
+  img: /images/projects/git.png
+  desc: A tool that tracks the branch status of the current folder with color and symbols
+
+- name: Let Me Google That For You Url Generator
+  gh_user: raverona
+  repo: lmgtfy-url-generator
+  img: /images/projects/lmgtfy.png
+  desc: An API to generate "Let Me Google That For You" URLs
+
+- name: Clojure For The Brave And True
+  gh_user: raverona
+  repo: clojure-for-the-brave-and-true
+  img: /images/projects/cftbat.png
+  desc: Notes and exercises based on the "Clojure For The Brave And True" book
+
+- name: We Were On a Break
+  gh_user: raverona
+  repo: we-were-on-a-break
+  img: /images/projects/wwoab.gif
+  desc: A Reddit Bot that replies comments with "Friends" quotes

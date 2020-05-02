@@ -1,2 +1,6 @@
 # IntelliJ project files
 .idea
+
+# Jekill files
+.jekyll-cache
+_site
