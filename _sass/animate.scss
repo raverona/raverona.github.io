@@ -2083,6 +2083,7 @@
 	-o-animation-name: bounceInDown;
 	animation-name: bounceInDown;
 }
+
 @-webkit-keyframes bounceInLeft {
 	0% {
 		opacity: 0;
@@ -2169,6 +2170,7 @@
 	-o-animation-name: bounceInLeft;
 	animation-name: bounceInLeft;
 }
+
 @-webkit-keyframes bounceInRight {
 	0% {
 		opacity: 0;
@@ -2255,6 +2257,7 @@
 	-o-animation-name: bounceInRight;
 	animation-name: bounceInRight;
 }
+
 @-webkit-keyframes bounceOut {
 	0% {
 		-webkit-transform: scale(1);
@@ -2341,6 +2344,7 @@
 	-o-animation-name: bounceOut;
 	animation-name: bounceOut;
 }
+
 @-webkit-keyframes bounceOutUp {
 	0% {
 		-webkit-transform: translateY(0);
