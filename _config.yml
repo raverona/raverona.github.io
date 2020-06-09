@@ -6,13 +6,12 @@ baseurl: ''
 profilepic: '/images/profile.jpg'
 bkimage: '/images/cover.png'
 #google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
 
 author:
   name: 'Rafael Verona'
   email: rafael.verona@nubank.com.br
   twitter_username: raverona
-#  facebook_username:
+  discogs_username: raverona
   github_username:  raverona
   linkedin_username:  rafael-verona
 

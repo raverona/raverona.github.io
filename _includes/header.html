@@ -31,16 +31,6 @@
               </li>
             {% endif %}
 
-            {% if site.author.facebook_username %}
-              <!-- Facebook -->
-              <li class="navigation__item">
-                <a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank">
-                  <i class="icon icon-social-facebook"></i>
-                  <span class="label">Facebook</span>
-                </a>
-              </li>
-            {% endif %}
-
             {% if site.author.linkedin_username %}
               <!-- LinkedIn -->
               <li class="navigation__item">
@@ -69,6 +59,16 @@
                   <span class="label">Email</span>
                 </a>
               </li>
+            {% endif %}
+
+            {% if site.author.discogs_username %}
+            <!-- Discogs -->
+            <li class="navigation__item">
+              <a href="https://www.discogs.com/user/{{ site.author.discogs_username }}" title="{{ site.author.discogs_username }} on Discogs" target="_blank">
+                <i class="fas fa-record-vinyl fa-lg"></i>
+                <span class="label">Discogs</span>
+              </a>
+            </li>
             {% endif %}
 
             </ul>
